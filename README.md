@@ -8,6 +8,8 @@
  - ℹ️ Observação: à medida que avança neste projeto, você pode notar que estamos fazendo referência a arquivos .js. No Replit, se você estiver criando novos arquivos JavaScript, precisará usar a extensão .jsx! Replit tem alguma questão de performance que requer que você use a extensão de arquivo .jsx :).
 ## Running React on Repl.it
 
+- ONDE A MÁGICA REALMENTE ACONTECE É AQUI NO [BACKEND](https://github.com/LuanArtacho/Meu-Portal-Salve-Backend), ACESSE PRA SABER MAIS!!
+
 [React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
 
 [Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
