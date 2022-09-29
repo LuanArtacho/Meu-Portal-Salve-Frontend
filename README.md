@@ -5,10 +5,11 @@
 
 - Magicamente você clonará meu repositório e a IDE completa em seu navegador para trabalhar com o código. Quando ele parar de carregar e mostrar algum código, clique no botão "Executar" na parte superior. Isso pode levar uns sólidos 2-3 minutos na primeira vez. Basicamente, o Replit estará inicializando seu projeto e implantando-o em um domínio real.
 
- - ℹ️ Observação: à medida que avança neste projeto, você pode notar que estamos fazendo referência a arquivos .js. No Replit, se você estiver criando novos arquivos JavaScript, precisará usar a extensão .jsx! Replit tem alguma questão de performance que requer que você use a extensão de arquivo .jsx :).
-## Running React on Repl.it
+## ONDE A MÁGICA REALMENTE ACONTECE É AQUI NO [BACKEND](https://github.com/LuanArtacho/Meu-Portal-Salve-Backend), ACESSE PRA SABER MAIS!!
 
-- ONDE A MÁGICA REALMENTE ACONTECE É AQUI NO [BACKEND](https://github.com/LuanArtacho/Meu-Portal-Salve-Backend), ACESSE PRA SABER MAIS!!
+ - ℹ️ Observação: à medida que avança neste projeto, você pode notar que estamos fazendo referência a arquivos .js. No Replit, se você estiver criando novos arquivos JavaScript, precisará usar a extensão .jsx! Replit tem alguma questão de performance que requer que você use a extensão de arquivo .jsx :).
+
+## Running React on Repl.it
 
 [React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
 
